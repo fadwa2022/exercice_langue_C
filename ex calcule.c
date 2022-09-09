@@ -95,7 +95,7 @@ int main() {
 					}	
 						   }
 	  
-	  }while(x<0||x>9); 
+	return 0;  }while(x<0||x>9); 
     goto start;
 	   }
  
